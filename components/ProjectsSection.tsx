@@ -6,9 +6,9 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Breydan Blog",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+      "This blog is hosted on Vercel, built with Next.js and Tailwind CSS using Tailwind Nextjs Starter Blog.",
     image: "/thankfulthoughts.png",
     github: "https://github.com/hqasmei/thankful-thoughts",
     link: "https://thankfulthoughts.io/",

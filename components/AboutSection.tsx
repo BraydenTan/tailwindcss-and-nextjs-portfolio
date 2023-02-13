@@ -30,24 +30,19 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
+              Hi, my name is Brendan Tan and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              <span className="font-bold">{" driven"}</span> support engineer
+              based in Sigapore.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+            As a support engineer, I am highly motivated to learn and am currently self-studying programming. I have already learned several programming languages and tools, including HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Github, Linux, MySQL, and PHP. I am constantly exploring and expanding my knowledge in these areas and more, and am dedicated to staying up-to-date with the latest developments in the industry. 
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
+            I am a diligent and eager learner, constantly expanding my knowledge and skills in programming and technology. With a strong work ethic, I am dedicated to staying up-to-date with the latest industry developments and always strive for excellence.
             </p>
             <br />
             <p>
