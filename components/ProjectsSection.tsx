@@ -6,27 +6,35 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Airbnb Clone ",
+    description:
+      "This blog is hosted on Vercel, Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023",
+    image: "/airbnb.png",
+    github: "https://github.com/BraydenTan/next13-airbnb-clone",
+    link: "https://next13-airbnb.vercel.app/",
+  },
+  {
     name: "Breydan Blog",
     description:
       "This blog is hosted on Vercel, built with Next.js and Tailwind CSS using Tailwind Nextjs Starter Blog.",
     image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    github: "https://github.com/BraydenTan/next_blog",
+    link: "https://blog.breydan.com/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    name: "Fengshui",
+    description: "Chinese METAPHYSICS CONSULTANCY,build with wordpress and Laravel",
     image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    github: "https://bazi.fredmunleong.com/",
+    link: "https://bazi.fredmunleong.com/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Gaming Genshin Impact Forum",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
+      "A forum for Genshin Impact players to discuss about the game. Build with Laravel Open source CMS",
     image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://www.forum.genshin.trade/",
+    link: "https://www.forum.genshin.trade/",
   },
 ]
 
